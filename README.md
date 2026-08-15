@@ -55,7 +55,8 @@ Real estate market dataset containing property records with pricing, location, a
 
 ## Dashboard Preview
 
-https://github.com/sarthakinarnaware8-sudo/CodeAlpha_Real-Estate-Market-Trend
+Real Estate Market Trend Dashboard](https://raw.githubusercontent.com/sarthakinarnaware8-sudo/CodeAlpha_Real-Estate-Market-Trend/main/real%20estate%20market%20trend%20dashboard.png
+
 ---
 
 ## Author
